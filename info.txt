@@ -1,0 +1,9 @@
+open two terminal.
+1 for server.py
+2 for client.py
+start speaking on mic, that should send audio to server.py
+
+Server.py will recieve audio from client.py
+
+It will print transcription on server's terminal, and send this transcription to client.py
+client.py will also print same transcription in its terminal. 
